@@ -1,0 +1,28 @@
+dist: trusty
+
+language: node_js
+
+before_script:
+  - rm -rf dist || exit 0
+
+install:
+  - yarn add vuepress -D
+
+script:
+  - yarn docs:build
+  # - echo 'coldstone.fun' > dist/CNAME
+
+cache: yarn
+
+branches:
+  only:
+  - master
+
+deploy:
+  provider: pages
+  local-dir: dist
+  skip-cleanup: true
+  github-token: $GITHUB_TOKEN
+  keep-history: true
+  on:
+    branch: master
