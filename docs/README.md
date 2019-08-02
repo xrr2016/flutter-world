@@ -68,6 +68,8 @@ lang: zh-CN
 
 [HistoryOfEverything](https://github.com/2d-inc/HistoryOfEverything)
 
+[Flutter Go](https://github.com/alibaba/flutter-go)
+
 ## 插件
 
 插件仓库
