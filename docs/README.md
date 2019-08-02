@@ -1,10 +1,10 @@
 ---
-title: 'Flutter 之旅开始了'
+title: '开启你的 Flutter 之旅吧🔥'
 description: '可能是最好的 Flutter 学习资源'
 lang: zh-CN
 ---
 
-## 文档
+## :bookmark: 文档
 
 英文文档
 
@@ -18,7 +18,7 @@ lang: zh-CN
 
 - [Dart 语言开发文档](http://www.dartdoc.cn/guides/)
 
-## 书籍
+## :books: 书籍
 
 [《Flutter 实战》](https://book.flutterchina.club/)
 
@@ -26,7 +26,7 @@ lang: zh-CN
 
 [《Flutter 从入门到精通》](https://tianchenglee.github.io/)
 
-## 教程
+## :school: 教程
 
 文字教程
 
@@ -38,17 +38,19 @@ lang: zh-CN
 
 视频教程
 
+- [Flutter 移动应用](https://www.bilibili.com/video/av52699308/?p=1)
+
 - [Build Native Mobile Apps with Flutter](https://eu.udacity.com/course/build-native-mobile-apps-with-flutter--ud905)
 
 - [Learn Flutter & Dart to Build iOS & Android Apps](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/) 很值的付费视频
 
-## 视频
-
-[Flutter widget of the Week](youtube.com/watch?v=b_sQ9bMltGU&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB996iG) Flutter 每周组件
+## :film_projector: 视频
 
 [The One](https://www.youtube.com/watch?v=sIIgtClYq0s)
 
-## 文章
+[Flutter widget of the Week](youtube.com/watch?v=b_sQ9bMltGU&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB996iG) Flutter 每周组件
+
+## :page_facing_up: 文章
 
 英文文章
 
@@ -66,13 +68,13 @@ lang: zh-CN
 
 [Flutter Plugin 开发流程](https://juejin.im/post/5af6e858f265da0b736dbac0)
 
-## 示例
+## :chestnut: 示例
 
 [HistoryOfEverything](https://github.com/2d-inc/HistoryOfEverything)
 
 [Flutter Go](https://github.com/alibaba/flutter-go)
 
-## 插件
+## :electric_plug: 插件
 
 插件仓库
 
@@ -102,7 +104,7 @@ lang: zh-CN
 
 - [lutter_webview_plugin](https://pub.flutter-io.cn/packages/flutter_webview_plugin)
 
-## 工具
+## :hammer_and_wrench: 工具
 
 动画工具
 
@@ -134,7 +136,7 @@ lang: zh-CN
 
 - [Bugly](https://github.com/crazecoder/flutter_bugly)
 
-## 博客
+## :open_book: 博客
 
 [Flutter](https://medium.com/flutter)
 
@@ -142,27 +144,29 @@ lang: zh-CN
 
 [didierboelens](https://www.didierboelens.com/)
 
-## 资源
+## :truck: 资源
 
 [It's All Widgets](https://itsallwidgets.com/)
 
 [Flutter Awesome](https://flutterawesome.com/)
 
-## 社区
+## :busts_in_silhouette: 社区
 
-[Github](https://github.com/flutter/flutter/issues)
+- [Github](https://github.com/flutter/flutter/issues)
 
-[Juejin](https://juejin.im/tag/Flutter)
+- [Juejin](https://juejin.im/tag/Flutter)
 
-[Zhihu](https://www.zhihu.com/topic/20172123/hot)
+- [Zhihu](https://www.zhihu.com/topic/20172123/hot)
 
-[Sifou](https://segmentfault.com/t/flutter)
+- [Sifou](https://segmentfault.com/t/flutter)
 
-[Twitter](https://twitter.com/flutterdev)
+- [Twitter](https://twitter.com/flutterdev)
 
-[Reddit](https://www.reddit.com/r/FlutterDev/)
+- [Reddit](https://www.reddit.com/r/FlutterDev/)
 
-## 频道
+- [Dev](https://dev.to/t/flutter)
+
+## :clapper: 频道
 
 Youtube
 
@@ -186,17 +190,17 @@ Bilibili
 
 [Flutter 社区](https://space.bilibili.com/344928717?from=search&seid=3043360348818488534)
 
-## 工作
+## :briefcase: 工作
 
 [拉钩](https://www.lagou.com/jobs/list_flutter)
 
 [BOSS 直聘](https://www.zhipin.com/job_detail/?query=flutter&city=100010000&industry=&position=#)
 
-## 关于
+## :smiley: 关于
 
 本站资源收集自网络，作者会长期维护更新的，欢迎提交 PR 和 Star
 
-## 留言
+## :memo: 留言
 
 <app-comments />
 

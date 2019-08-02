@@ -1,5 +1,5 @@
 module.exports = {
-  title: 'Flutter World',
+  title: ' 💯 Flutter World',
   head: [
     ['meta', { rel: 'keywords', content: 'flutter, resources' }],
     ['meta', { rel: 'robots', content: 'index,follow' }],
