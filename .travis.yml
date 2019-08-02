@@ -13,7 +13,7 @@ install:
 
 script:
   - yarn docs:build
-  # - echo 'flutterworld.site' > docs/.vuepress/dist/CNAME
+  - echo 'flutterworld.site' > docs/.vuepress/dist/CNAME
 
 cache: yarn
 

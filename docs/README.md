@@ -1,9 +1,8 @@
 ---
+title: 'Flutter 之旅开始了'
 description: '可能是最好的 Flutter 学习资源'
 lang: zh-CN
 ---
-
-# 1
 
 ## 文档
 
@@ -13,7 +12,7 @@ lang: zh-CN
 
 ## 书籍
 
-[Flutter 实战](https://book.flutterchina.club/)
+[Flutter 实战](https://book.flutterchina.club/) wendux
 
 [Flutter 完整开发实战详解](https://guoshuyu.cn/home/wx/)
 
