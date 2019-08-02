@@ -11,7 +11,6 @@ module.exports = {
     lastUpdated: '最后更新'
   },
   plugins: [
-    '@vuepress/pwa',
     '@vuepress/active-header-links',
     [
       '@vuepress/google-analytics',
