@@ -73,3 +73,5 @@ lang: zh-CN
 ## 留言
 
 <app-comments />
+
+<app-hotjar />
