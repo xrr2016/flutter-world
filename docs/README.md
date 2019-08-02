@@ -46,6 +46,8 @@ lang: zh-CN
 
 [Flutter widget of the Week](youtube.com/watch?v=b_sQ9bMltGU&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB996iG) Flutter 每周组件
 
+[The One](https://www.youtube.com/watch?v=sIIgtClYq0s)
+
 ## 文章
 
 英文文章
@@ -138,6 +140,8 @@ lang: zh-CN
 
 [闲鱼技术](https://www.yuque.com/xytech/flutter)
 
+[didierboelens](https://www.didierboelens.com/)
+
 ## 资源
 
 [It's All Widgets](https://itsallwidgets.com/)
@@ -197,3 +201,5 @@ Bilibili
 <app-comments />
 
 <app-hotjar />
+
+<app-forkme />
