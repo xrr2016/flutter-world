@@ -1,5 +1,5 @@
 module.exports = {
-  base: '/flutter-world/'
+  base: '/flutter-world/',
   title: 'Flutter World',
   locales: {},
   themeConfig: {
