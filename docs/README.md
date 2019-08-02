@@ -67,3 +67,9 @@ lang: zh-CN
 [BOSS 直聘](https://www.zhipin.com/job_detail/?query=flutter&city=100010000&industry=&position=#)
 
 ## 关于
+
+本站资源收集自网络，作者会长期维护更新的，欢迎提交 PR 和 Star
+
+## 留言
+
+<app-comments />
