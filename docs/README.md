@@ -5,6 +5,7 @@ heroText: Flutter World
 tagline: 可能是最好的 Flutter 学习资源
 actionText: 🔥开启 Flutter 之旅吧🔥
 actionLink: /cn/
+lang: zh-CN
 features:
   - title: 快速开发
     details: 使用 Stateful Hot Reload 以毫秒为单位绘制应用程序。 使用一组丰富的完全可自定义的小部件在几分钟内构建本机接口。

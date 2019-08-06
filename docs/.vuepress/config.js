@@ -1,17 +1,19 @@
 module.exports = {
   title: 'Flutter World',
   head: [
-    ['meta', { rel: 'keywords', content: 'flutter, resources' }],
+    ['meta', { rel: 'keywords', content: 'flutter, resources, learn, books' }],
+    ['meta', { rel: 'description', content: 'flutter learning resources' }],
+    ['meta', { rel: 'author', content: 'coldstone' }],
     ['meta', { rel: 'robots', content: 'index,follow' }],
-    ['link', { rel: 'icon', href: '/favicon.png' }],
-    [
-      'link',
-      {
-        rel: 'stylesheet',
-        href:
-          'https://cdnjs.cloudflare.com/ajax/libs/github-fork-ribbon-css/0.2.3/gh-fork-ribbon.min.css'
-      }
-    ]
+    ['link', { rel: 'icon', href: '/favicon.png' }]
+    // [
+    //   'link',
+    //   {
+    //     rel: 'stylesheet',
+    //     href:
+    //       'https://cdnjs.cloudflare.com/ajax/libs/github-fork-ribbon-css/0.2.3/gh-fork-ribbon.min.css'
+    //   }
+    // ]
   ],
   themeConfig: {
     search: false,
