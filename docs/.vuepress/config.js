@@ -1,5 +1,5 @@
 module.exports = {
-  title: ' 💯 Flutter World',
+  title: 'Flutter World',
   head: [
     ['meta', { rel: 'keywords', content: 'flutter, resources' }],
     ['meta', { rel: 'robots', content: 'index,follow' }],
@@ -13,11 +13,23 @@ module.exports = {
       }
     ]
   ],
-  locales: {},
   themeConfig: {
     search: false,
     sidebar: 'auto',
-    lastUpdated: '最后更新'
+    lastUpdated: '最后更新',
+    repo: 'xrr2016/flutter-world',
+    docsDir: 'docs',
+    editLinks: true,
+    editLinkText: '帮助我们改善此页面！',
+    nav: [
+      {
+        text: 'Languages',
+        items: [
+          { text: '中文', link: '/cn/' },
+          { text: 'English', link: '/en/' }
+        ]
+      }
+    ]
   },
   plugins: [
     '@vuepress/active-header-links',
