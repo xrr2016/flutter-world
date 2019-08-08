@@ -70,17 +70,31 @@ lang: zh-CN
 
 ## :chestnut: 开源
 
-[HistoryOfEverything](https://github.com/2d-inc/HistoryOfEverything)
+[HistoryOfEverything](https://github.com/2d-inc/HistoryOfEverything) The History of Everything is a vertical timeline that allows you to navigate, explore, and compare events from the Big Bang to the birth of the Internet. Events are beautifully illustrated and animated.
 
-[Flutter Go](https://github.com/alibaba/flutter-go)
+[Flutter Go](https://github.com/alibaba/flutter-go) 帮助开发者快速上手 Flutter
 
 [Flutter Todos](https://github.com/asjqkkkk/flutter-todos) 📝 全面而又精美的 Flutter Todo-List 项目，作为实践项目，再合适不过了
+
+[V2LF](https://github.com/w4mxl/V2LF) V2LF 是一个 v2ex 技术社区的第三方 app。 'V2LF' 名字是取 'way to love flutter' 的缩写
 
 ## :electric_plug: 插件
 
 插件仓库
 
 [Dart Packages](https://pub.flutter-io.cn/)
+
+相机
+
+- [camera](https://pub.dev/packages/camera)
+
+权限申请
+
+- [permission_handler](https://pub.dev/packages/permission_handler)
+
+分享
+
+- [share](https://pub.dev/packages/share)
 
 状态管理
 
