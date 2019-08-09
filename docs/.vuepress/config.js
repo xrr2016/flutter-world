@@ -24,6 +24,7 @@ module.exports = {
     editLinks: true,
     editLinkText: '帮助我们改善此页面！',
     nav: [
+      { text: 'Trending', link: '/trending/' },
       {
         text: 'Languages',
         items: [
