@@ -166,6 +166,8 @@ lang: zh-CN
 
 [Flutter Awesome](https://flutterawesome.com/)
 
+[Flutter Widget Livebook](https://flutter-widget-livebook.blankapp.org/basics/introduction/) Flutter Widget Livebook 是一个使用 Flutter for web 构建的可在线实时预览 Widget 示例的网站
+
 ## :busts_in_silhouette: 社区
 
 - [Github](https://github.com/flutter/flutter/issues)

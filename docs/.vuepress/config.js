@@ -6,14 +6,6 @@ module.exports = {
     ['meta', { rel: 'author', content: 'coldstone' }],
     ['meta', { rel: 'robots', content: 'index,follow' }],
     ['link', { rel: 'icon', href: '/favicon.png' }]
-    // [
-    //   'link',
-    //   {
-    //     rel: 'stylesheet',
-    //     href:
-    //       'https://cdnjs.cloudflare.com/ajax/libs/github-fork-ribbon-css/0.2.3/gh-fork-ribbon.min.css'
-    //   }
-    // ]
   ],
   themeConfig: {
     search: false,
@@ -24,6 +16,7 @@ module.exports = {
     editLinks: true,
     editLinkText: '帮助我们改善此页面！',
     nav: [
+      // { text: 'Widget of the Week', link: '/player/' },
       { text: 'Trending', link: '/trending/' },
       {
         text: 'Languages',
