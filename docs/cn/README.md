@@ -64,6 +64,8 @@ lang: zh-CN
 
 中文文章
 
+[写给前端工程师的 Flutter 教程](https://juejin.im/post/5d56605ef265da03f77e6519)
+
 [Flutter 原理与美团的实践](https://juejin.im/post/5b6d59476fb9a04fe91aa778)
 
 [Flutter Plugin 开发流程](https://juejin.im/post/5af6e858f265da0b736dbac0)
