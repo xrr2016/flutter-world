@@ -62,6 +62,8 @@ English article
 
 [Working with APIs in Flutter](https://medium.com/flutter-community/working-with-apis-in-flutter-8745968103e9)
 
+[Flutter for the Web — Deploy to Github](https://medium.com/flutter-community/flutter-for-the-web-deploy-to-github-da454e4bc079)
+
 Chinese article
 
 [写给前端工程师的 Flutter 教程](https://juejin.im/post/5d56605ef265da03f77e6519)
