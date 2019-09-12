@@ -124,7 +124,7 @@ lang: zh-CN
 
 - [lutter_webview_plugin](https://pub.flutter-io.cn/packages/flutter_webview_plugin)
 
-## :hammer_and_wrench: 工具
+## :hammer_and_wrench:工具
 
 动画工具
 
@@ -155,6 +155,10 @@ lang: zh-CN
 错误监控
 
 - [Bugly](https://github.com/crazecoder/flutter_bugly)
+
+主题配置
+
+- [Panache](https://rxlabz.github.io/panache/)
 
 ## :open_book: 博客
 

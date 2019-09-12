@@ -124,7 +124,7 @@ Web page display
 
 - [lutter_webview_plugin](https://pub.flutter-io.cn/packages/flutter_webview_plugin)
 
-## :hammer_and_wrench: Tool
+## :hammer_and_wrench:Tool
 
 Animation tool
 
@@ -155,6 +155,10 @@ Application test
 Error monitoring
 
 - [Bugly](https://github.com/crazecoder/flutter_bugly)
+
+Theme config
+
+- [Panache](https://rxlabz.github.io/panache/)
 
 ## :open_book: Blog
 
