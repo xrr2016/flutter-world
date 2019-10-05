@@ -126,6 +126,10 @@ Web page display
 
 ## :hammer_and_wrench:Tool
 
+JSON to Dart
+
+- [quicktype](https://app.quicktype.io)
+
 Animation tool
 
 - [2dimensions](https://www.2dimensions.com/)
